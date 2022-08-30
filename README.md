@@ -15,5 +15,7 @@ If you are insterented how to track based on PCA, please check the detail from t
 | ![ssr_comparison.png](https://github.com/JacobChen1998/Feature-tracking-with-PCA/blob/main/ssr_comparison.png) | 
 |:--:| 
 | *SSR compariosn before and after self-adaptation* |
+
 | ![width_comparison.png](https://github.com/JacobChen1998/Feature-tracking-with-PCA/blob/main/width_comparison.png) | 
+|:--:| 
 | *Tracked object size before and after self-adaptation* |

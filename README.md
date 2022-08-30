@@ -6,5 +6,5 @@ The inability to change size has always been a drawback of sliding window tracki
 3. Automatically detects and adjusts object size even if it changes.
 
 
-[tracked_result_before_adjust](https://github.com/JacobChen1998/Self-adaptation-Feature-tracking-with-PCA-Lucas-Kanade/blob/main/tracked_result_before_adjust.gif))
-[tracked_result_after_adjust](https://github.com/JacobChen1998/Self-adaptation-Feature-tracking-with-PCA-Lucas-Kanade/blob/main/tracked_result_after_adjust.gif))
+![tracked_result_before_adjust](https://github.com/JacobChen1998/Self-adaptation-Feature-tracking-with-PCA-Lucas-Kanade/blob/main/tracked_result_before_adjust.gif)
+![tracked_result_after_adjust](https://github.com/JacobChen1998/Self-adaptation-Feature-tracking-with-PCA-Lucas-Kanade/blob/main/tracked_result_after_adjust.gif)

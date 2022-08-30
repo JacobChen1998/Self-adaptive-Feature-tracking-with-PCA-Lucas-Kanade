@@ -5,9 +5,17 @@ The inability to change size has always been a drawback of sliding window tracki
 2. The object frame size can be defined arbitrarily. 
 3. Automatically detects and adjusts object size even if it changes.
 
-This repostory is based on my previous repostory [Feature-tracking-with-PCA](https://github.com/JacobChen1998/Feature-tracking-with-PCA).
-If you are insterented how to track based on PCA, please check the detail from there.
-
 ![tracked_result_before_adjust](https://github.com/JacobChen1998/Self-adaptation-Feature-tracking-with-PCA-Lucas-Kanade/blob/main/tracked_result_before_adjust.gif)
 ![tracked_result_after_adjust](https://github.com/JacobChen1998/Self-adaptation-Feature-tracking-with-PCA-Lucas-Kanade/blob/main/tracked_result_after_adjust.gif)
 ![optical_flow_LK](https://github.com/JacobChen1998/Self-adaptation-Feature-tracking-with-PCA-Lucas-Kanade/blob/main/LK_result_kangaroo2_ref_firstframe.gif)
+
+This repostory is based on my previous repostory [Feature-tracking-with-PCA](https://github.com/JacobChen1998/Feature-tracking-with-PCA).
+If you are insterented how to track based on PCA, please check the detail from there.
+
+| ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
+|:--:| 
+| *Space* |
+
+![SSR_comparison](https://github.com/JacobChen1998/Self-adaptation-Feature-tracking-with-PCA-Lucas-Kanade/blob/main/ssr_comparison.png)
+![width_comparison](https://github.com/JacobChen1998/Self-adaptation-Feature-tracking-with-PCA-Lucas-Kanade/blob/main/width_comparison.png)
+![height_comparison](https://github.com/JacobChen1998/Self-adaptation-Feature-tracking-with-PCA-Lucas-Kanade/blob/main/height_comparison.png)

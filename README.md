@@ -12,7 +12,7 @@ The inability to change size has always been a drawback of sliding window tracki
 This repostory is based on my previous repostory [Feature-tracking-with-PCA](https://github.com/JacobChen1998/Feature-tracking-with-PCA).
 If you are insterented how to track based on PCA, please check the detail from there.
 
-| ![ssr_comparison.png](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
+| ![ssr_comparison.png](https://github.com/JacobChen1998/Feature-tracking-with-PCA/blob/main/ssr_comparison.png) | 
 |:--:| 
 | *Space* |
 
